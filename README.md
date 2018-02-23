@@ -38,3 +38,26 @@ Behavioral
  - [**Strategy**](https://github.com/ehsangazar/design-patterns-php/blob/master/behavioral-patterns/strategy.php)
  - [**Template Method**](https://github.com/ehsangazar/design-patterns-php/blob/master/behavioral-patterns/template-method.php)
  - [**Visitor**](https://github.com/ehsangazar/design-patterns-php/blob/master/behavioral-patterns/visitor.php)
+
+## SOLID
+- **Single Responsibility Principle**
+- **Open/Closed Principle**
+- **Liskov Substitution Principle**
+- **Interface Segregation Principle**
+- **Dependency Inversion Principle**
+
+## Architecture Patterns
+
+- **MVC(Model, View, Controll)**
+- **HMVC(Hierarchical Model, View, Controll)**
+- **MVVM(Model View ViewModel)**
+- **MVP(Model View Presenter)**
+- **SOA(Service Oriented Architecture)**
+- **PAC(Presentation Abstraction Control)**
+- **ECS(Entity Component System)**
+
+## Others
+- **Service Container**
+- **Service Layer**
+- **Service Providers**
+- **Annotations**
