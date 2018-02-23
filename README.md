@@ -61,3 +61,6 @@ Behavioral
 - **Service Layer**
 - **Service Providers**
 - **Annotations**
+- **Inversion of Control** [[*Factory Method*](https://github.com/ehsangazar/design-patterns-php/blob/master/creational-patterns/factory-method.php)]
+  - **Constructor Injection**
+  - **Dependency Injection**
