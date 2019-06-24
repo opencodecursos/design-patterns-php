@@ -55,6 +55,10 @@ Behavioral
 - **SOA(Service Oriented Architecture)**
 - **PAC(Presentation Abstraction Control)**
 - **ECS(Entity Component System)**
+- **DDD(Domain Driven Design)**
+- **HA(Hexagonal architecture)**
+- **CQRS(Command Query Responsibility Segregation)**
+- **ES(Event Sourcing)**
 
 ## Others
 - **Service Container**
@@ -62,5 +66,5 @@ Behavioral
 - **Service Providers**
 - **Annotations**
 - **Inversion of Control** [[*Factory Method*](https://github.com/ehsangazar/design-patterns-php/blob/master/creational-patterns/factory-method.php)]
-  - **Constructor Injection**
-  - **Dependency Injection**
+- **Constructor Injection**
+- **Dependency Injection**
